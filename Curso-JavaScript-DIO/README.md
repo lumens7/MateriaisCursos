@@ -13,3 +13,6 @@
 
 4-[**Arrays e Estruturas de Repetição**](https://github.com/lumens7/MateriaisCursos/tree/main/Curso-JavaScript-DIO/QuartaAula)
   - Aprendendo o conceito de listas e de estruturas de Repetição (for)
+
+5[**Funções Auxiliares (print e gets)**](https://github.com/lumens7/MateriaisCursos/tree/main/Curso-JavaScript-DIO/QuintaAula)
+  - Aprendendo a utilizar funções Auxiliares e entendendo um pouco mais sobre a orientação a objetos
