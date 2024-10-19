@@ -1,4 +1,4 @@
-# CURSO DE JAVAsCRIPT DA DIGITAL INNOVATION ONE
+# CURSO DE JAVASCRIPT DA DIGITAL INNOVATION ONE
 ## Materiais de apoio e desafios proposto pela DIO no curso de JavaScript
 
 1-[**Primeiros Passos**](https://github.com/lumens7/MateriaisCursos/tree/main/Curso-JavaScript-DIO/PrimeiraAula)
