@@ -20,7 +20,7 @@
 6[**Pokedex apresentada e codificada no curso**](https://github.com/lumens7/MateriaisCursos/tree/main/Curso-JavaScript-DIO/SextaAula)
   -Pokedex que foi criada no curso de javaScript da Dio, simples porem complexa, apresenta 10 podemons da 1 gen e caso queira ver mais pode clicar em 'lead more' que apresenta mais 10 pokemons da lista e assim por diante 
 
-7[**Aprendendo mais sobre Funcoes **](https://github.com/lumens7/MateriaisCursos/tree/main/Curso-JavaScript-DIO/SetimaAula)
+7[**Aprendendo mais sobre Funcoes**](https://github.com/lumens7/MateriaisCursos/tree/main/Curso-JavaScript-DIO/SetimaAula)
   - Apresentando first Class Functions, higher order Functions e manipulando as mesmas
 
 8[**Manipulação de Arquivos**](https://github.com/lumens7/MateriaisCursos/tree/main/Curso-JavaScript-DIO/OitavaAula)
