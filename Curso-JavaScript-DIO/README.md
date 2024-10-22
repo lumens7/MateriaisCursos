@@ -16,3 +16,13 @@
 
 5[**Funções Auxiliares (print e gets)**](https://github.com/lumens7/MateriaisCursos/tree/main/Curso-JavaScript-DIO/QuintaAula)
   - Aprendendo a utilizar funções Auxiliares e entendendo um pouco mais sobre a orientação a objetos
+
+6[**Pokedex apresentada e codificada no curso**]{https://github.com/lumens7/MateriaisCursos/tree/main/Curso-JavaScript-DIO/SextaAula}
+  -Pokedex que foi criada no curso de javaScript da Dio, simples porem complexa, apresenta 10 podemons da 1 gen e caso queira ver mais pode clicar em 'lead more' que apresenta mais 10 pokemons da lista e assim por diante 
+
+7[**Aprendendo mais sobre Funcoes **]{https://github.com/lumens7/MateriaisCursos/tree/main/Curso-JavaScript-DIO/SetimaAula}
+  - Apresentando first Class Functions, higher order Functions e manipulando as mesmas
+
+8[**Manipulação de Arquivos**]{https://github.com/lumens7/MateriaisCursos/tree/main/Curso-JavaScript-DIO/OitavaAula}
+  - Entendendo o funcionamento das promessas
+  - Lendo arquivos e entendendo os metodos Async e Await
