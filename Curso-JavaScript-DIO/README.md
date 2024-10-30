@@ -26,3 +26,8 @@
 8[**Manipulação de Arquivos**](https://github.com/lumens7/MateriaisCursos/tree/main/Curso-JavaScript-DIO/OitavaAula)
   - Entendendo o funcionamento das promessas
   - Lendo arquivos e entendendo os metodos Async e Await
+
+9[**Construindo um portfolio pessoal**](https://github.com/lumens7/SitePessoal)
+  - construindo um postfolio pessoal
+  - aprendendo como utilizar o github pages para enviar o repositorio para web
+  - [*repositorio*](https://lumens7.github.io/SitePessoal/)
